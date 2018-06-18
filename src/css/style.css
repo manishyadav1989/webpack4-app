@@ -1,0 +1,21 @@
+body{
+    padding : 20px;
+}
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    padding:15px;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+#text{
+    display: none;
+    padding:10px;
+    border:1px dashed black;
+}
